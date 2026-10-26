@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amit Kumar Singh aka thecancerus
+# Amit Kumar Singh - thecancerus
 
 Where the mind is without fear, and the head is held high;
 Where knowledge is free;
