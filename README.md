@@ -2,9 +2,10 @@
 
 # Amit Kumar Singh aka thecancerus
 
-### Marketer who codes.
+Where the mind is without fear, and the head is held high;
+Where knowledge is free;
 
-I check the thing everyone trusts, and write down what I actually found.
+
 
 **PHP · WordPress**
 
